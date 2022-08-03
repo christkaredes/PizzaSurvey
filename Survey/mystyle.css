@@ -1,0 +1,15 @@
+﻿body {
+    background-image: url(pizza.jpg);
+    background-size: cover;
+}
+h1
+{
+    color:rgb(255, 0, 0);
+}
+.content 
+{
+    height: 641px;
+    width: 800px;
+    background-color: rgba(255, 255, 255, 0.75);
+    font-family: Rockwell;
+}
